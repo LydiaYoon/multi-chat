@@ -1,4 +1,4 @@
-# multi-chat
+# Multi Chat (Java)
 자바로 만든 간단한 채팅 프로그램  
 소켓 채널을 이용해  TCP/IP 총신 구현  
 * [Getting Start Java] 책에 나온 예제를 참고하였습니다.
